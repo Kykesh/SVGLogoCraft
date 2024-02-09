@@ -64,7 +64,9 @@ Follow the prompts to customize your logo.
 - Jest for unit testing
 
 ## Screenshot
-![SVG Logo Maker Screenshot](path/to/screenshot.png)
+![SVG Logo Maker Screenshot](/SVGLogoCraft/Assets/LogoSS.png)
+![SVG Logo Maker Screenshot](/SVGLogoCraft/Assets/LogoSR.mov)
+
 
 ## Deployed Application
 This application is a command-line tool and does not have a deployed version.
